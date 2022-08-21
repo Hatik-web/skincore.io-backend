@@ -1,1 +1,0 @@
-{"version":3,"file":"technology-categories.provider.js","sourceRoot":"","sources":["../../../../../../../src/frameworks/data-services/sequelize/entities/boxes/technology-categories.provider.ts"],"names":[],"mappings":";;;AAAA,6EAAgE;AAEnD,QAAA,sCAAsC,GAAG,kCAAkC,CAAA;AAE3E,QAAA,4BAA4B,GAAG;IACxC,OAAO,EAAE,8CAAsC;IAC/C,QAAQ,EAAE,+CAAkB;CAC7B,CAAA"}
