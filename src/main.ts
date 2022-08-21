@@ -22,7 +22,7 @@ import {useContainer} from "class-validator";
 
   //Todo: Cors
   app.enableCors({
-    origin: ["http://localhost:3000", "http://localhost:3001"],
+    origin: ["http://87.249.50.40:3000", "http://87.249.50.40:3001"],
     credentials: true,
   });
 
