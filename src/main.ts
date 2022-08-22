@@ -22,12 +22,7 @@ import {useContainer} from "class-validator";
 
   //Todo: Cors
   app.enableCors({
-    origin: [
-        "http://skincore.io",
-      "https://skincore.io",
-      "http://87.249.50.40:3001",
-      "http://localhost:3000"
-    ],
+    origin: ["http://skincore.io", "http://localhost:3000"],
     credentials: true,
   });
 
