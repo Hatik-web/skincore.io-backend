@@ -27,7 +27,7 @@ export class AppController {
         }),
     )
     async uploadFiles(@UploadedFiles() files) {
-        return `${process.env.BASE_URL}/${files[0].filename}`;
+        return `/${files[0].filename}`;
     }
 
 }
