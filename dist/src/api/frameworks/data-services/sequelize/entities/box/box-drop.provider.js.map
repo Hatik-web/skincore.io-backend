@@ -1,0 +1,1 @@
+{"version":3,"file":"box-drop.provider.js","sourceRoot":"","sources":["../../../../../../../../src/api/frameworks/data-services/sequelize/entities/box/box-drop.provider.ts"],"names":[],"mappings":";;;AAAA,uDAAmD;AAEtC,QAAA,yBAAyB,GAAG,qBAAqB,CAAA;AAEjD,QAAA,eAAe,GAAG;IAC3B,OAAO,EAAE,iCAAyB;IAClC,QAAQ,EAAE,kCAAgB;CAC3B,CAAA"}

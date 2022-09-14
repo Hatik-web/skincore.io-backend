@@ -1,0 +1,1 @@
+{"version":3,"file":"boxes-categories.provider.js","sourceRoot":"","sources":["../../../../../../../../src/api/frameworks/data-services/sequelize/entities/box/boxes-categories.provider.ts"],"names":[],"mappings":";;;AAAA,+DAAoD;AAEvC,QAAA,iCAAiC,GAAG,6BAA6B,CAAA;AAEjE,QAAA,uBAAuB,GAAG;IACnC,OAAO,EAAE,yCAAiC;IAC1C,QAAQ,EAAE,mCAAa;CACxB,CAAA"}

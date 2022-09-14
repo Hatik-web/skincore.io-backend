@@ -1,0 +1,1 @@
+{"version":3,"file":"inventory.provider.js","sourceRoot":"","sources":["../../../../../../../../src/api/frameworks/data-services/sequelize/entities/inventory/inventory.provider.ts"],"names":[],"mappings":";;;AAAA,yDAA6C;AAEhC,QAAA,4BAA4B,GAAG,wBAAwB,CAAA;AAEvD,QAAA,iBAAiB,GAAG;IAC7B,OAAO,EAAE,oCAA4B;IACrC,QAAQ,EAAE,4BAAS;CACpB,CAAA"}

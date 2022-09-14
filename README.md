@@ -43,6 +43,18 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+#Kafka
+install: https://tecadmin.net/how-to-install-apache-kafka-on-ubuntu-22-04/
+
+start:
+sudo systemctl start zookeeper 
+sudo systemctl start kafka
+
+status:
+sudo systemctl status zookeeper 
+sudo systemctl status kafka
+
 ```
 
 ## Test
